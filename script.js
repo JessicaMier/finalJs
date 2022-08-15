@@ -18,3 +18,10 @@ fetch('./json/paquetes.json')
         </div>`
     });
 })
+async function mostrarDestinos() {
+    const destinos = await fetch("./json/paquetes.json")
+    const destinosParseados= await destinos.json()
+    console.log(destinosParseados)
+    return destinosParseados
+}
+mostrarDestinos()
