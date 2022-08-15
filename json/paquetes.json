@@ -1,0 +1,47 @@
+[
+    {
+        "origen":"Bs As",
+        "destino": "Jujuy",
+        "salida": "Enero 2023",
+        "hotel": "Humahuaca",
+        "noches": 4,
+        "precio": 20000,
+        "img": "jujuy.jpg"
+    },
+    {
+        "origen":"Bs As",
+        "destino": "Mendoza",
+        "salida": "Enero 2023",
+        "hotel": "Viñedos",
+        "noches": 6,
+        "precio": 36000,
+        "img": "mendoza.jpg"
+    },
+    {
+        "origen":"Bs As",
+        "destino": "Cataratas de Iguazú",
+        "salida": "Enero 2023",
+        "hotel": "Iguazu",
+        "noches": 5,
+        "precio": 34000,
+        "img": "cataratasIguazu.jpg"
+    },
+    {
+        "origen":"Bs As",
+        "destino": "Villa Carlos Paz",
+        "salida": "febrero 2023",
+        "hotel": "El Dique",
+        "noches": 5,
+        "precio": 32000,
+        "img": "carlosPaz.jpg" 
+    },
+    {
+        "origen":"Bs As",
+        "destino": "Salta",
+        "salida": "febrero 2023",
+        "hotel": "El Dique",
+        "noches": 7,
+        "precio": 38000,
+        "img": "salta.jpg"    
+    }
+]
